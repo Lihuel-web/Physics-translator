@@ -1,0 +1,10 @@
+{
+  "name": "Physics Class Live Captions",
+  "description": "Real-time speech-to-text and multi-language live captions for 8th-grade physics with complete multi-lingual UI localization, instant student link sharing, and session transcripts.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
